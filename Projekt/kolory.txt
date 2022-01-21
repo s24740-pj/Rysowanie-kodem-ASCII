@@ -1,0 +1,16 @@
+1 - ciemno niebieski
+2 - zielony
+3 - jasno niebieski
+4 - czerwony
+5 - magenta
+6 - pomaranczowy
+7 - bialy
+8 - szary
+9 - niebieski
+10 - jasno zielony
+11 - aqua
+12 - jasno czerwony
+
+
+minus zmienia tekst
+plus zmienia tło

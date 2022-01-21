@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640800387 source:c:\users\xdare\desktop\programowanie\projekt\projekt\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	"Funkcje.h"
+
+1641413456 c:\users\xdare\desktop\programowanie\projekt\projekt\funkcje.h
+
